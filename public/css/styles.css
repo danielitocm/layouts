@@ -1,0 +1,13 @@
+.jumbotron {
+	background-image: url('../img/ironhackers.jpg');
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+footer {
+	margin-top: 500px;
+	background-color: black;
+	width: 100vw;
+	height: 200px;
+}
